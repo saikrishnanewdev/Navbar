@@ -58,10 +58,10 @@ class Navbar extends Component {
                 <a href="index.html">Dashboard </a>
               </li>
               <li>
-                <a href="index.html">Abount </a>
+                <a href="index.html">About </a>
               </li>
               <li>
-                <a href="index.html">Conatct </a>
+                <a href="index.html">Contact </a>
               </li>
             </ul>
           </div>
